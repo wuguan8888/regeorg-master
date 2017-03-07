@@ -23,7 +23,7 @@ TIMEOUT = 10
 I = 0
 USER_DIC = {
     "ftp":['www','admin','root','db','wwwroot','data','web','ftp'],
-    "mysql":['root'],
+    "mysql":['root','comexresponde'],
     "mssql":['sa'],
     "telnet":['administrator','admin','root','cisco'],
     "postgresql":['postgres','admin'],
@@ -32,7 +32,7 @@ USER_DIC = {
     "memcached":['null'],
     "elasticsearch":['null']
 }
-PASSWORD_DIC = ['123456','admin','root','password','123123','123','1','{user}','{user}{user}','{user}1','{user}123','{user}2016','{user}2015','{user}!','','P@ssw0rd!!','qwa123','12345678','test','123qwe!@#','123654','123456789','123321','1314520','666666','woaini','fuckyou','000000','1234567890','8888888','qwerty','1qaz2wsx','abc123','abc123456','1q2w3e4r','123qwe','159357','p@ssw0rd','p@55w0rd','password!','p@ssw0rd!','password1','r00t','tomcat','apache','system']
+PASSWORD_DIC = ['123456','admin','root','password','123123','123','1','comexresponde','{user}','{user}{user}','{user}1','{user}123','{user}2016','{user}2015','{user}!','','P@ssw0rd!!','qwa123','12345678','test','123qwe!@#','123654','123456789','123321','1314520','666666','woaini','fuckyou','000000','1234567890','8888888','qwerty','1qaz2wsx','abc123','abc123456','1q2w3e4r','123qwe','159357','p@ssw0rd','p@55w0rd','password!','p@ssw0rd!','password1','r00t','tomcat','apache','system']
 REGEX = [['ftp', '21', '^220.*?ftp|^220-|^220 Service|^220 FileZilla'],  ['telnet', '23', '^\\xff[\\xfa-\\xfe]|^\\x54\\x65\\x6c|Telnet'],['mssql', '1433', ''], ['mysql', '3306', '^.\\0\\0\\0.*?mysql|^.\\0\\0\\0\\n|.*?MariaDB server'], ['postgresql', '5432', ''], ['redis', '6379', '-ERR|^\\$\\d+\\r\\nredis_version'], ['elasticsearch', '9200', ''], ['memcached', '11211', '^ERROR'], ['mongodb', '27017', '']]
 class Crack():
     def __init__(self,ip,port,server,timeout):
