@@ -1,2 +1,0 @@
-# regeorg-master
-test

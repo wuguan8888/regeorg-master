@@ -1,0 +1,69 @@
+ELF          >     
+@     @       ?          @ 8 	 @ !        @       @ @     @ @     ?      ?                   8      8@     8@                                          @       @     ?      ?                   ?      ?P     ?P     ?      ?                   ?      ?P     ?P     ?      ?                   T      T@     T@                            P錿d   ?      ?@     ?@     <       <              Q錿d                                                  €e (                                                 /lib64/ld-linux-x86-64.so.2          GNU                                                     
+                                                                                   	       
+                                                  <              
+       ?                   ?             ?      ?             E       D              
+       L              ?      ?             ?      ?             ?      m              ?      Y              ?      ?             ;      g              ?      5              ?      .              
+       y              =       ?             ?      ?             
+       ?             ?      `              
+                              S              ?      t              *                               _Jv_RegisterClasses __gmon_start__ libc.so.6 getgid printf geteuid getegid fscanf execl perror getuid sleep fclose mmap strrchr wait strstr strncmp fork ptrace strcmp exit fopen __libc_start_main GLIBC_2.2.5                                     $          ui	   ?      €P                   ?P                   ?P                   ?P                   ?P                   ?P                   ?P                   ?P                   ?P                   ?P        	           ?P        
+           ?P                   ?P                    P        
+           P                   P                   P                    P                   (P                   0P                   8P                   @P                   H冹瑁  ?  ?	  H兡?5? %? 悙悙%? h    猷%? h   樾%? h   槔%? h   榘%? h   闋%? h   閻%? h   閫%? h   閜%? h   閌%? h	   镻%? h
+   锧%z
+ h   ?%r
+ h   ?%j
+ h
+   ?%b
+ h   ?%Z
+ h   轲?%R
+ h   猷?%J
+ h   樾?%B
+ h   槔?%:
+ h   榘?%2
+ h   闋?        H1鞩壯^H夆H冧餚TI抢€@ H橇 @ H乔?@ 铻?魫H冹H?) H吚t蠬兡脨悙悙悙悙悙悙€=?  UH夊t?怘兝H?? 襀?? H?H呉u淦? 擅fff恌ff恌f怳H?/
+  H夊t?   H吚t煽?P ?蹩擅悙怳H夊H冹H墋鳫塽餒?? ?   蠬壡H?h 懈擅UH夊H侅@  H墋呠?    菂佚    ?@ ?@ 鑽?H塃餒儅?u4?@ ?@ 鑣?H塃餒儅?uH菂三    槔  菂佚   兘荦剷  兘佚 u0H崊帻H峂鏗峌鐷媫餓壚?@ ?   鑓?墔荦轱   H崓帻H峌鐷媫鹁7@ ?   ??墔荦兘荦吘   H嵔帻?@ 柚?H吚卭H嵔帻綛@ 杓?H吚匲H嵔帻綺   鑢?H墔旋H崊帻H兝H;呅?s^H嫿旋H冿?   綟@ 柰?吚u@H崊旋H?H崊帻H;呅?sH媴旋H葊8_uH崊旋H胝H媴旋? 兘荦 uH崟帻H媫鹁J@ ?   鐵?椋?H嵉帻H媫侟吚厠?H婾鐷媢N@ ?   鑲?H媫痂9?H婨鐷墔三?H媫痂#?H菂三    H媴三擅UH夊AUATSH冹H墋郒塽乜h@ 璞?H?	
+ H?
+  u縳@ ?   ???   ??繜@ 鑮?H?? H??  u縳@ ?   柢??   ??H婨郒% ?H塃蠬媢锌?@ ?   璞?H媢豀媫蠥?   A??   ?   ??H凐u棵@ ?   鑩??   锜?H婨豀E蠬9E鄐H婨郒??@ H岴郒?胼H抢  蛝杈?A壞鐵?A壟鑞?壝鑷?壠E夃D夐壼啃@ ?   ???   抉@ 盔@ ?   鑕??@ ?   桄??   ??UH夊H冹P墋麳塽鹎E?   H荅?  €H荅?  勄E?  荅腀   儅?u(H婾蠬婨菻壠H)諬婨繦媫蠬氰5??   瑾?桢?塃靸}?u`?   ?   ?   ?   ?   铻?H婨餒媫餉?   A?@ ?@ ?@ H?H??   钀??@ 桄??   ??儅?u?@ ?   梓??   ??H岴鐷壡鑱?;E靦腠婨鑹E皨E皟?吚u?@ ?   杌??  婨鑹E皨E?   凐t氪婨鑹E皨E?   柳凐t'婨鑹E皨E?   壠窿?@ ?   鑙?殒   媢旃    簒   ?   ?   铇?H塃豀亇?  uHH婨繦壛H灵媢旌x   ?   ?   鑘?H凐u縖@ ?   ???   ??荅?   H儅?u.儅?t(媢旃    ?   ?   ?   ???'  璇?媵媢旃    ?   ?   ?   桉?H凐叒?縭@ ?   鑸??   璁??   擅悙悙悙悙悙悙悙怘塡$鐻塪$鳯?? H塴$餒冹1坭_?H?€ L)郒柳H9胹H壟A蹾肏9雛鬑?$H媗$L媎$H兡胒ff恌f恌f怳H?@ SH?8 H)際冹H聋?ff?T?H薍凔u驢兡[]锧   悙悙悙悙UH夊SH敲?P H冹H?? ?fff恌f怘冸蠬?H凐u馠兡[擅悙H冹鑟?H兡?       r /proc/kallsyms /proc/ksyms %p %c %s
+ %p %s
+ _O/ _S. smp %s
+ resolved symbol %s to %p
+ commit_creds    symbol table not available, aborting!
+ prepare_kernel_cred mapping at %lx
+ mmap fault
+  UID %d, EUID:%d GID:%d, EGID:%d
+ bin/sh /bin/sh no /bin/sh ??
+ 4 3 2 exec fault fork fault
+ Process finished
+ Process received signal: %d
+ PTRACE_POKEUSER fault
+ PTRACE_SYSCALL fault
+ ;<      P?X   侘x   冰?  $??  橗?                x?            ?@     1       A?C
+   <   	@     0      A?C
+$   \   9
+@     s      A?C
+I???    ?  ?@     e      A?C
+       zR x?        橖V    J??P ?        <   攸8    A?H?N                                          $              ?@     
+       ?@            x@            h@            (@     
+       ?                                          ?P            ?                           ?@            ?@                   	              ?o    p@     o           ?o    :@                                                                                                             ?P                     ?@     ?@     ?@     ?@     	@     	@     .	@     >	@     N	@     ^	@     n	@     ~	@     ?@     ?@     ?@     ?@     ?@     ?@     ?@     ?@     
+@                     ?P      GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)  GCC: (GNU) 3.4.5 (Gentoo 3.4.5, ssp-3.4.5-1.0, pie-8.7.9)    L             ?@            ?@     	       L
+@                            <    ?       @            ?@                            ?           /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu/crti.S /var/tmp/portage/glibc-2.3.6-r3/work/glibc-2.3.6/csu GNU AS 2.16.1 €?      ?  /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu/crtn.S /var/tmp/portage/glibc-2.3.6-r3/work/glibc-2.3.6/csu GNU AS 2.16.1 € %    %   ?   p   ?
+    /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu  crti.S     	?@     $  	?@     H  	L
+@     
+Hr:,-H ?   p   ?
+    /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu  crtn.S     	@     H  	?@     H  .symtab .strtab .shstrtab .interp .note.ABI-tag .hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .text .fini .rodata .eh_frame_hdr .eh_frame .ctors .dtors .jcr .dynamic .got .got.plt .data .bss .comment .debug_aranges .debug_info .debug_abbrev .debug_line                                                                                    8@     8                                    #             T@     T                                     1             x@     x      ?                           7             (@     (      @                          ?             h@     h      ?                             G   o       :@     :      0                            T   ?o       p@     p                                   c             ?@     ?                                  m             ?@     ?      ?                          w             ?@     ?                                    r             ?@     ?      `                            }              
+@      
+      ?                             ?            ?@     ?                                    ?            @           €                             ?            ?@     ?      <                              ?            ?@     ?      ?                             ?            ?P     ?                                    ?            ?P     ?                                    ?            ?P     ?                                    ?            ?P     ?      ?                           ?            €P     €                                   ?            ?P     ?      ?                            ?            HP     H                                    ?            `P     `                                    ?                     `      ?                             ?                            ?                             ?                     ?      d                                                  ?                                                                Z                                                   n                                                         ?      ?          :                 	                      ?      ?                                                           8@                   T@                   x@                   (@                   h@                   :@                   p@                   ?@                  	 ?@                  
+ ?@                   ?@                    
+@                  
+ ?@                   @                   ?@                   ?@                   ?P                   ?P                   ?P                   ?P                   €P                   ?P                   HP                   `P                                                                                                                                                                                                  ?                    ?                *    ?                1    ?                <    ?                ?    L
+@             ?   ?                ?    ?P             ?    ?P             ?    ?P             ?    XP             ?    `P            ?    p
+@                 ?@             ?   ?                    ?P                 ?P             )    ?@             7    ?P             C    ?@             1    ?                Y   ?                ?   ?                ?    9
+@     s      ?   ?                ?    ?@     1       ?             
+       ?                                ?      -             E       ?             
+       T    ?P             ]             ?      q             ?      ?             ?      ?   ??P             ?   PP             ?    €@     8       ?             ?      ?    	@     0      ?   
+ ?@             ?             ?                   ;           
+@                          ?      -             ?      A             
+       U   ??P             h     @     V       x   ?`P             ?    ?@     e      ?   ??P             ?     HP             ?   
+ ?@             ?             =       ?             ?      ?   ?`P             ?   ?P             ?   ?xP             ?    hP               ??P                 pP            (             
+       ;    @            J             ?      ^             
+       r    HP                                   ?             ?      ?             *       ?                       abi-note.S ../sysdeps/x86_64/elf/start.S init.c initfini.c /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu/crti.S call_gmon_start crtstuff.c __CTOR_LIST__ __DTOR_LIST__ __JCR_LIST__ p.0 completed.1 __do_global_dtors_aux frame_dummy __CTOR_END__ __DTOR_END__ __FRAME_END__ __JCR_END__ __do_global_ctors_aux /var/tmp/portage/glibc-2.3.6-r3/work/build-amd64-x86_64-pc-linux-gnu-linuxthreads/csu/crtn.S ia32syscall.c docall elf-init.c kernelmodecode geteuid@@GLIBC_2.2.5 ptrace@@GLIBC_2.2.5 __libc_start_main@@GLIBC_2.2.5 fork@@GLIBC_2.2.5 getegid@@GLIBC_2.2.5 _DYNAMIC fscanf@@GLIBC_2.2.5 wait@@GLIBC_2.2.5 strncmp@@GLIBC_2.2.5 __fini_array_end __dso_handle __libc_csu_fini fclose@@GLIBC_2.2.5 get_symbol _init perror@@GLIBC_2.2.5 strcmp@@GLIBC_2.2.5 _start sleep@@GLIBC_2.2.5 printf@@GLIBC_2.2.5 getgid@@GLIBC_2.2.5 __fini_array_start __libc_csu_init __bss_start main __init_array_end data_start _fini strrchr@@GLIBC_2.2.5 exit@@GLIBC_2.2.5 _edata _GLOBAL_OFFSET_TABLE_ _end commit_creds __init_array_start prepare_kernel_cred fopen@@GLIBC_2.2.5 _IO_stdin_used strstr@@GLIBC_2.2.5 getuid@@GLIBC_2.2.5 __data_start _Jv_RegisterClasses execl@@GLIBC_2.2.5 mmap@@GLIBC_2.2.5 __gmon_start__ 
